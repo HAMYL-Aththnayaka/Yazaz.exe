@@ -62,7 +62,7 @@ src/
 
 ## 🤝 Connect with Me
 - **LinkedIn:** [Yasas Aththanayaka](https://lk.linkedin.com/in/yasas-aththanayaka-a9b9b2333)
-- **Email:** yasaslasitha@gmail.com
+- **Email:** aththanayakayasas@gmail.com
 
 ---
 *Created with ❤️ by Yasas Aththanayaka*
