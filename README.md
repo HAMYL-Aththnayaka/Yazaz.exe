@@ -1,6 +1,6 @@
 # 🌐 Yazaz.exe | Personal Portfolio 🚀
 
-🔗 Live Site: [[https://yazaz-exe.vercel.app/](https://yazaz-exe.vercel.app/)](https://yazaz-exe-6wnj.vercel.app/)
+🔗 Live Site: [(https://yazaz-exe.vercel.app/)](https://yazaz-exe-6wnj.vercel.app/)
 
 Welcome to the repository for my personal portfolio website.
 This project showcases my journey as an **IT undergraduate**, my **full-stack development skills**, and the projects I’ve built along the way.
