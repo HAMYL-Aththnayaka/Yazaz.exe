@@ -1,69 +1,108 @@
-# Yazaz.exe | Personal Portfolio 🚀
+# 🌐 Yazaz.exe | Personal Portfolio 🚀
 
-Welcome to the repository for my personal portfolio website. This site is built to showcase my journey as an IT undergraduate, my technical skills in full-stack development, and the projects I've built.
+🔗 Live Site: [https://yazaz-exe.vercel.app/](https://yazaz-exe.vercel.app/)
+
+Welcome to the repository for my personal portfolio website.
+This project showcases my journey as an **IT undergraduate**, my **full-stack development skills**, and the projects I’ve built along the way.
+
+---
 
 ## 👤 About Me
-I am **Yasas Aththanayaka**, a 3rd-year(2026/04/28) Information Technology student at the **University of Vavuniya**. I am a deeply curious developer passionate about building seamless digital experiences across web and mobile platforms.
 
-- **Stack:** MERN (MongoDB, Express, React, Node.js) & Flutter/Dart.
-- **Focus:** Full-stack Web Development,SE,Qa, Mobile UI/UX, and Logic Programming.
+I am **Yasas Aththanayaka**, a 3rd-year (expected 2026/04/28) Information Technology student at the **University of Vavuniya**, Sri Lanka.
+
+I’m a curious and passionate developer focused on building clean, efficient, and meaningful digital experiences.
+
+* **Stack:** MERN (MongoDB, Express, React, Node.js) & Flutter/Dart
+* **Focus Areas:** Full-stack Web Development, Software Engineering, QA, Mobile UI/UX, and Problem Solving
+
+---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, Tailwind CSS (v4), Framer Motion (Animations)
-- **Icons:** React Icons (Font Awesome)
-- **Routing:** React Router DOM
-- **Deployment:** Vite
+
+* **Frontend:** React.js, Tailwind CSS v4
+* **Animations:** Framer Motion
+* **Icons:** React Icons (Font Awesome)
+* **Routing:** React Router DOM
+* **Build Tool:** Vite
+* **Deployment:** Vercel
+
+---
 
 ## ✨ Key Features
-- **Modern UI:** A sleek dark-themed interface built with Tailwind CSS.
-- **Smooth Navigation:** Integrated `scroll-behavior: smooth` for section jumping.
-- **Animated Components:** Entrance animations and hover effects using Framer Motion.
-- **Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop views.
-- **Academic Timeline:** A chronological view of my academic and development milestones.
+
+* 🎨 Modern dark-themed UI
+* ⚡ Smooth scroll navigation between sections
+* ✨ Animated components with Framer Motion
+* 📱 Fully responsive (Mobile / Tablet / Desktop)
+* 📊 Academic timeline showcasing my journey
+* 🚀 Fast and optimized performance
+
+---
 
 ## 📂 Project Structure
+
 ```text
 src/
-├── assets/          # Images and branding assets
-├── components/      # Reusable UI components (Hero, Services, About, etc.)
-├── Pages/           # Main page views (Home, Blog)
-└── App.jsx          # Main routing and layout configuration
+├── assets/        # Images and branding assets
+├── components/    # Reusable UI components (Hero, About, Services, etc.)
+├── pages/         # Page views (Home, Blog, etc.)
+└── App.jsx        # Routing and main layout
 ```
+
+---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js (Latest LTS version recommended)
-- npm or yarn
+
+* Node.js (LTS recommended)
+* npm or yarn
 
 ### Installation
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/HAMYL-Aththnayaka/Yazaz.exe.git](https://github.com/HAMYL-Aththnayaka/Yazaz.exe.git)
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd Yazaz.exe/frontend
-   ```
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-4. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
 
-## 📈 Major Projects Highlighted
-- **Unibites:** Digital canteen management system for university students.
-- **Yazz Player:** A cross-platform music player built with Flutter.
-- **The Fruit Store:** An e-commerce concept using the MERN stack.
-- **Yazz Video Chat:** Real-time conferencing app using Agora SDK.
+1. Clone the repository
 
-## 🤝 Connect with Me
-- **LinkedIn:** [Yasas Aththanayaka](https://lk.linkedin.com/in/yasas-aththanayaka-a9b9b2333)
-- **Email:** aththanayakayasas@gmail.com
+```bash
+git clone https://github.com/HAMYL-Aththanayaka/Yazaz.exe.git
+```
+
+2. Go to project folder
+
+```bash
+cd Yazaz.exe/frontend
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run development server
+
+```bash
+npm run dev
+```
 
 ---
-*Created with ❤️ by Yasas Aththanayaka*
-```
+
+## 📈 Featured Projects
+
+* 🍱 **Unibites** – University digital canteen system
+* 🎵 **Yazz Player** – Cross-platform music player (Flutter)
+* 🛒 **The Fruit Store** – MERN stack e-commerce concept
+* 🎥 **Yazz Video Chat** – Real-time video conferencing (Agora SDK)
+
+---
+
+## 🤝 Connect with Me
+
+* 🔗 LinkedIn: [https://lk.linkedin.com/in/yasas-aththanayaka-a9b9b2333](https://lk.linkedin.com/in/yasas-aththanayaka-a9b9b2333)
+* 📧 Email: [aththanayakayasas@gmail.com](mailto:aththanayakayasas@gmail.com)
+
+---
+
+💙 *Built with passion by Yasas Aththanayaka*
+
+---
