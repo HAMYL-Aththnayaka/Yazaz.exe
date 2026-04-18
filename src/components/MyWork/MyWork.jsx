@@ -21,10 +21,10 @@ const projects = [
   },
   {
     id: 3,
-    title: "CheckM8",
-    desc: "A specialized Chrome extension designed for interactive chess learning and real-time game analysis.",
-    tech: ["JavaScript", "Chrome API", "CSS"],
-    github: "https://github.com/HAMYL-Aththnayaka/CheckM8",
+    title: "UniBites",
+    desc: "A university-focused food ordering platform designed to simplify campus dining with a streamlined user interface.",
+    tech: ["React", "Tailwind CSS", "Firebase", "Node.js"],
+    github: "https://github.com/HAMYL-Aththnayaka/UniBites",
     demo: "#",
   },
   {
@@ -67,6 +67,7 @@ const MyWork = () => {
                       href={project.github}
                       target="_blank"
                       rel="noreferrer"
+                      onClick={(e) => e.stopPropagation()}
                       className="text-gray-400 hover:text-white transition-colors"
                       title="View Source"
                     >
@@ -75,6 +76,9 @@ const MyWork = () => {
 
                     <a
                       href={project.demo}
+                      target="_blank"
+                      rel="noreferrer"
+                      onClick={(e) => e.stopPropagation()}
                       className="text-gray-400 hover:text-white transition-colors"
                       title="Live Demo"
                     >
