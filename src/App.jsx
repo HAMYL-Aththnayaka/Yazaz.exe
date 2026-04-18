@@ -1,10 +1,10 @@
 import React from 'react';
 import Navbar from './components/Navbar/Navbar';
-import Blog from './Pages/Blog/Blog';
-import ProjectDetails from './Pages/ProjectDetails/ProjectDetails';
+import Blog from "./pages/Blog/Blog";
+import ProjectDetails from './pages/ProjectDetails/ProjectDetails';
 
 import { Routes, Route } from 'react-router-dom';
-import Home from './Pages/Home/Home';
+import Home from './pages/Home/Home';
 import Contact from './components/Contact/Contact'; 
 
 const App = () => {
