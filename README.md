@@ -6,7 +6,7 @@ Welcome to the repository for my personal portfolio website. This site is built 
 I am **Yasas Aththanayaka**, a 3rd-year(2026/04/28) Information Technology student at the **University of Vavuniya**. I am a deeply curious developer passionate about building seamless digital experiences across web and mobile platforms.
 
 - **Stack:** MERN (MongoDB, Express, React, Node.js) & Flutter/Dart.
-- **Focus:** Full-stack Web Development, Mobile UI/UX, and Logic Programming.
+- **Focus:** Full-stack Web Development,SE,Qa, Mobile UI/UX, and Logic Programming.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Tailwind CSS (v4), Framer Motion (Animations)
