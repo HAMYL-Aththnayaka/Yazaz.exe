@@ -42,7 +42,6 @@ const MyWork = () => {
     <section id="works" className="py-24 bg-gray-900 text-white">
       <div className="container mx-auto px-4">
 
-        {/* Header */}
         <div className="flex flex-col items-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold">
             Recent <span className="text-blue-600">Projects</span>
@@ -53,13 +52,11 @@ const MyWork = () => {
           </p>
         </div>
 
-        {/* Projects Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {projects.map((project) => (
             <Link key={project.id} to={`/project/${project.id}`}>
               <div className="group relative bg-gray-800 border border-gray-700 rounded-2xl p-8 hover:border-blue-600 transition-all duration-300 shadow-xl">
 
-                {/* Top Row */}
                 <div className="flex justify-between items-start mb-6">
                   <div className="p-3 bg-blue-600/10 rounded-lg">
                     <FaCode className="text-blue-500 text-2xl" />
@@ -86,17 +83,14 @@ const MyWork = () => {
                   </div>
                 </div>
 
-                {/* Title */}
                 <h3 className="text-2xl font-bold mb-3 group-hover:text-blue-400 transition-colors">
                   {project.title}
                 </h3>
 
-                {/* Description */}
                 <p className="text-gray-400 mb-6 leading-relaxed">
                   {project.desc}
                 </p>
 
-                {/* Tech stack */}
                 <div className="flex flex-wrap gap-2">
                   {project.tech.map((tag) => (
                     <span
@@ -113,7 +107,6 @@ const MyWork = () => {
           ))}
         </div>
 
-        {/* GitHub Button */}
         <div className="mt-16 text-center">
           <a
             href="https://github.com/HAMYL-Aththnayaka?tab=repositories"
