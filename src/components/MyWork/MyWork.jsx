@@ -24,7 +24,7 @@ const projects = [
     title: "UniBites",
     desc: "A university-focused food ordering platform designed to simplify campus dining with a streamlined user interface.",
     tech: ["React", "Tailwind CSS", "Firebase", "Node.js"],
-    github: "https://github.com/HAMYL-Aththnayaka/UniBites",
+    github: "https://github.com/HAMYL-Aththnayaka/unibites-project",
     demo: "#",
   },
   {
