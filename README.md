@@ -3,7 +3,7 @@
 Welcome to the repository for my personal portfolio website. This site is built to showcase my journey as an IT undergraduate, my technical skills in full-stack development, and the projects I've built.
 
 ## 👤 About Me
-I am **Yasas Aththanayaka**, a 3rd-year Information Technology student at the **University of Vavuniya**. I am a deeply curious developer passionate about building seamless digital experiences across web and mobile platforms.
+I am **Yasas Aththanayaka**, a 3rd-year(2026/04/28) Information Technology student at the **University of Vavuniya**. I am a deeply curious developer passionate about building seamless digital experiences across web and mobile platforms.
 
 - **Stack:** MERN (MongoDB, Express, React, Node.js) & Flutter/Dart.
 - **Focus:** Full-stack Web Development, Mobile UI/UX, and Logic Programming.
