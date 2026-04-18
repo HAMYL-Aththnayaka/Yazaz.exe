@@ -1,0 +1,18 @@
+[33mcommit ebfb01ddf0943ec34b7d47a652615850c130f869[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: HAMYL-Aththnayaka <aththanayakayasas@gmail.com>
+Date:   Sat Apr 18 15:24:31 2026 +0530
+
+    fix: correct Blog import path casing
+
+[1mdiff --git a/src/App.jsx b/src/App.jsx[m
+[1mindex 3f9a4a4..7be3b6a 100644[m
+[1m--- a/src/App.jsx[m
+[1m+++ b/src/App.jsx[m
+[36m@@ -1,6 +1,6 @@[m
+ import React from 'react';[m
+ import Navbar from './components/Navbar/Navbar';[m
+[31m-import Blog from "./Pages/Blog/Blog";[m
+[32m+[m[32mimport Blog from "./pages/Blog/Blog";[m
+ import ProjectDetails from './pages/ProjectDetails/ProjectDetails';[m
+ [m
+ import { Routes, Route } from 'react-router-dom';[m
