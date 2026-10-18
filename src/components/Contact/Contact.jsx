@@ -21,7 +21,7 @@ const Contact = () => {
         <div className="h-1 w-20 bg-blue-600 mx-auto rounded-full mb-6"></div>
 
         <p className="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed mb-12">
-          I am a 3rd-year IT undergraduate at the <strong>University of Vavuniya</strong>, passionate about building reliable full-stack web applications, AI-integrated software, and Flutter mobile experiences. Feel free to reach out for opportunities, collaborations, or tech discussions!
+          I am a Final-year IT undergraduate at the <strong>University of Vavuniya</strong>, passionate about building reliable full-stack web applications, AI-integrated software, and Flutter mobile experiences. Feel free to reach out for opportunities, collaborations, or tech discussions!
         </p>
 
         {/* Contact info cards */}
@@ -70,7 +70,7 @@ const Contact = () => {
             </div>
             <div>
               <p className="text-white font-medium">University of Vavuniya</p>
-              <p className="text-gray-500 text-xs mt-1">BSc (Hons) in IT (Expected 2026)</p>
+              <p className="text-gray-500 text-xs mt-1">BSc (Hons) in IT (Expected 2027)</p>
             </div>
           </div>
 

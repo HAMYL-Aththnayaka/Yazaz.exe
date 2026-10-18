@@ -172,7 +172,7 @@ const MyWork = () => {
             className="inline-flex items-center gap-3 px-8 py-3.5 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-xl transition-all shadow-lg shadow-blue-600/20 hover:shadow-blue-600/30 hover:scale-105"
           >
             <FaGithub size={20} />
-            <span>Explore All 80+ Repositories on GitHub</span>
+            <span>Explore All of my work on GitHub</span>
           </a>
         </div>
 
