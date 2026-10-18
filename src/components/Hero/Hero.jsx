@@ -67,7 +67,7 @@ const Hero = () => {
                 className="flex items-center gap-2 px-6 py-3 rounded-xl bg-gray-900 hover:bg-gray-800 text-gray-200 hover:text-white border border-gray-700 hover:border-gray-500 font-semibold transition-all shadow-md"
               >
                 <FaGithub size={18} />
-                <span>GitHub (80+)</span>
+                <span>GitHub </span>
               </a>
 
               <Link to="/contact">
