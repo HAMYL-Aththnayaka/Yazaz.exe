@@ -60,7 +60,7 @@ const About = () => {
                 Curious Developer, Builder & Problem Solver
               </h3>
               <p className="text-gray-300 text-base md:text-lg leading-relaxed mb-4">
-                I am <b>Yasas Aththanayaka</b>, a 3rd-year Information Technology undergraduate at the <b>University of Vavuniya</b>, Sri Lanka. I enjoy building meaningful digital products that bridge sleek user interfaces with robust backend architectures.
+                I am <b>Yasas Aththanayaka</b>, a final-year Information Technology undergraduate at the <b>University of Vavuniya</b>, Sri Lanka. I enjoy building meaningful digital products that bridge sleek user interfaces with robust backend architectures.
               </p>
               <p className="text-gray-400 text-base leading-relaxed mb-6">
                 Over the course of 80+ repositories and projects, I have deepened my skills across the <b>MERN & PERN stacks</b>, cross-platform mobile apps with <b>Flutter & Dart</b>, asynchronous services with <b>FastAPI</b>, and AI-enhanced applications powered by <b>Google Gemini</b>.
@@ -77,7 +77,7 @@ const About = () => {
                 <p className="text-xs text-gray-500 font-medium uppercase mt-1">Academic Year</p>
               </div>
               <div>
-                <p className="text-2xl md:text-3xl font-bold text-blue-400">2026</p>
+                <p className="text-2xl md:text-3xl font-bold text-blue-400">2027</p>
                 <p className="text-xs text-gray-500 font-medium uppercase mt-1">Expected Grad</p>
               </div>
             </div>
@@ -110,7 +110,7 @@ const About = () => {
                 </p>
                 <div className="pt-2 text-xs font-mono text-gray-400 space-y-1">
                   <p>• Student Reg: 2021/ICT/14</p>
-                  <p>• Duration: 2021 – Present (Expected: Apr 2026)</p>
+                  <p>• Duration: 2023 – Present (Expected: Apr 2027)</p>
                   <p>• Focus: Software Engineering, Data Systems, Mobile & Web</p>
                 </div>
               </div>

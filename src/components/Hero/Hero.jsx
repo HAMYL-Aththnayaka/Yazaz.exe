@@ -45,7 +45,7 @@ const Hero = () => {
 
             {/* Bio */}
             <p className="text-gray-300 text-base md:text-lg leading-relaxed max-w-2xl">
-              I am a 3rd-year IT student at the <strong>University of Vavuniya</strong>, passionate about building reliable full-stack applications and fluid mobile experiences. From architecting <strong>MERN/PERN</strong> web apps and <strong>FastAPI</strong> services to crafting native mobile UIs with <strong>Flutter</strong> and integrating <strong>Gemini AI</strong>, I turn complex problems into elegant code.
+              I am a final year IT student at the <strong>University of Vavuniya</strong>, passionate about building reliable full-stack applications and fluid mobile experiences. From architecting <strong>MERN/PERN</strong> web apps and <strong>FastAPI</strong> services to crafting native mobile UIs with <strong>Flutter</strong> and integrating <strong>Gemini AI</strong>, I turn complex problems into elegant code.
             </p>
 
             {/* Action Buttons */}
@@ -89,7 +89,7 @@ const Hero = () => {
               </div>
               <div className="flex items-center gap-2">
                 <span className="w-1.5 h-1.5 rounded-full bg-blue-500"></span>
-                <span>80+ Repositories & Real Builds</span>
+                <span>Many Personal Projects and  & Real Builds</span>
               </div>
             </div>
           </motion.div>
